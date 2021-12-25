@@ -1,5 +1,42 @@
-const sliderData = {
-  id: 1,
-  name: "Cyberpunk 2077",
-  desc: "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification.",
-};
+const sliderData = [
+  {
+    id: 1,
+    name: "Cyberpunk 2077",
+    img: "https://raw.githubusercontent.com/ruhulaminjr/Website-Images/main/gamebox/cyberpunk.jpg",
+    desc: "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification.",
+    video: "https://www.youtube.com/embed/LembwKDo1Dk",
+    rating: 4.3,
+  },
+  {
+    id: 2,
+    name: "Grand Theft Auto V",
+    img: "https://raw.githubusercontent.com/ruhulaminjr/Website-Images/main/gamebox/gta5.jpg",
+    desc: "Rockstar Games went bigger, since their previous installment of the series. You get the complicated and realistic world-building from Liberty City of GTA4 in the setting of lively and diverse Los Santo.",
+    video: "https://www.youtube.com/embed/QkkoHAzjnUs",
+    rating: 4.5,
+  },
+  {
+    id: 3,
+    name: "The Witcher",
+    img: "https://raw.githubusercontent.com/ruhulaminjr/Website-Images/main/gamebox/witcher.jpg",
+    desc: "The story takes place in a medieval fantasy world and follows Geralt of Rivia, one of a few traveling monster hunters who have supernatural powers,",
+    video: "https://www.youtube.com/embed/c0i88t0Kacs",
+    rating: 4.0,
+  },
+  {
+    id: 4,
+    name: "Call of Duty Cold War",
+    img: "https://raw.githubusercontent.com/ruhulaminjr/Website-Images/main/gamebox/callofduty.jpg",
+    desc: "Call of Duty. Warzone™ Pacific arrives with a new map, Welcome to the island of war. Call of Duty. Get access to all 100 tiers of Battle Pass content,",
+    video: "https://www.youtube.com/embed/OQ1CwPhE8KQ",
+    rating: 3.5,
+  },
+  {
+    id: 5,
+    name: "God of War",
+    img: "https://raw.githubusercontent.com/ruhulaminjr/Website-Images/main/gamebox/callofduty.jpg",
+    desc: "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters",
+    video: "https://www.youtube.com/embed/K0u_kAWLJOA",
+    rating: 2.9,
+  },
+];
