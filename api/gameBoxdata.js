@@ -34,7 +34,7 @@ const sliderData = [
   {
     id: 5,
     name: "God of War",
-    img: "https://raw.githubusercontent.com/ruhulaminjr/Website-Images/main/gamebox/callofduty.jpg",
+    img: "https://raw.githubusercontent.com/ruhulaminjr/Website-Images/main/gamebox/godofwar.jpg",
     desc: "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters",
     video: "https://www.youtube.com/embed/K0u_kAWLJOA",
     rating: 2.9,
